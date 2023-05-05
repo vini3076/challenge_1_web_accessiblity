@@ -18,6 +18,8 @@ Refactored code to make the html and CSS files more structured and accessibility
 
 # Link
 
-[Link to Github Pages](https://github.com/vini3076/challenge_1_web_accessiblity).
+[Link to Github Repository](https://github.com/vini3076/challenge_1_web_accessiblity)
+
+[Link to Deployed page](https://vini3076.github.io/challenge_1_web_accessiblity/)
 
 
